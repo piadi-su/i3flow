@@ -66,6 +66,19 @@ exec_always autotiling
 
 ---
 
+## Screenshots
+
+### Before Auto-Tiling
+
+![Before Auto-Tiling](img/before.png)
+
+### After Auto-Tiling
+
+![After Auto-Tiling](img/after.png)
+
+---
+
 ## License
 
 This project is released under the MIT License.
+
