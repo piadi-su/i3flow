@@ -1,7 +1,7 @@
 # AUTO TILING FOR I3 (C VERSION)
 
 A lightweight, fast auto-tiling tool for the **i3 window manager**, written in **C**.
-Inspired by the old Python auto-tiling script, but much faster and more efficient.
+Inspired by the old Python auto-tiling script, but much faster.
 
 ---
 
@@ -16,7 +16,6 @@ Inspired by the old Python auto-tiling script, but much faster and more efficien
 ## Installation
 
 Copy and paste the following commands into your terminal.
-Each block can be copied with a single click on GitHub.
 
 ### Clone the repository
 
