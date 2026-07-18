@@ -62,5 +62,6 @@ exec_always i3flow
 
 ## License
 
-This project is released under the MIT License.
+Released under the GPLv3 (or later) License.
+
 
